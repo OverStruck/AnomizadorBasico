@@ -10,11 +10,11 @@ El script esta escrito en PHP y lo puedes modificar a tu gusto.
 Ten en cuenta que este es un script *extremadamente* básico, si sabes algo de programación y crees que puedas hacer de este proyecto algo mejor, no dudes en contribuir!
 
 ##Instalación
-Solo tienes que subir el archivo **anomizador.php** a tu sitio web/host/alojamiento
+Solo tienes que subir el archivo [**anomizador.php**](https://github.com/OverStruck/AnomizadorBasico/blob/master/anomizador.php) a tu sitio web/host/alojamiento
 
 ##Screenshots:
 
 ![Screenshot](http://i.imgur.com/lBRi4mP.png)
 ![Screenshot](http://i.imgur.com/o1ZF32N.png)
 
-Este software es publicado bajo la licencia MIT. Véase [LICENSE.md] (https://github.com/WebMBro/WebMConverter/blob/master/LICENSE.md).
+Este software es publicado bajo la licencia MIT. Véase [LICENSE.md] (https://github.com/OverStruck/AnomizadorBasico/blob/master/LICENSE.md).
